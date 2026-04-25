@@ -3,12 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appIDs": ["YB5RW5JH8M.com.wellnessz.buo"],
+        "appIDs": ["YB5RW5JH8M.com.wellnessz.aarogyam"],
         "paths": ["/app/*"]
       }
     ]
   },
   "webcredentials": {
-    "apps": ["YB5RW5JH8M.com.wellnessz.buo"]
+    "apps": ["YB5RW5JH8M.com.wellnessz.aarogyam"]
   }
 }
