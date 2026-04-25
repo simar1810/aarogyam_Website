@@ -1,14 +1,14 @@
 [
-  {
+   {
     "relation": [
       "delegate_permission/common.handle_all_urls",
       "delegate_permission/common.get_login_creds"
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.buo",
+      "package_name": "com.wellnessz.aarogyam",
       "sha256_cert_fingerprints": [
-        "42:16:8C:A0:4B:90:DC:00:59:5C:AA:7D:89:AA:0F:0A:6A:8F:02:09:5D:5A:01:33:D6:F1:1E:43:AD:8D:6D:BF"
+        "C1:D5:30:A7:2B:46:FE:22:2C:5A:36:16:75:CB:13:DB:91:F1:B4:A0:D0:7A:BA:A1:E7:9C:7D:19:14:C0:1E:C0"
       ]
     }
   }
